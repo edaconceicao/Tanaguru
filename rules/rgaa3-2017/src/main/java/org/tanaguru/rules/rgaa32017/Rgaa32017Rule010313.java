@@ -34,7 +34,7 @@ public class Rgaa32017Rule010313 extends AbstractNotTestedRuleImplementation {
      * Default constructor
      */
     public Rgaa32017Rule010313 () {
-        super();
+        super(); 
     }
 
 }
